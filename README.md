@@ -1,7 +1,7 @@
 # Countries socio-economic development analysis
 
 ### 1. Dataset Exploratory Analysis
-- UNdata countries dataset*
+- UNdata countries dataset* 
 - Data cleaning and missing values handling
 
 ### 2. Unsupervised Learning
