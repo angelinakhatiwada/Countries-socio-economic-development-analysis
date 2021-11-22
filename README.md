@@ -2,7 +2,7 @@
 
 ### 1. Dataset Exploratory Analysis
 - UNdata countries dataset*
-- Data cleaning and null values handling
+- Data cleaning and missing values handling
 
 ### 2. Unsupervised Learning
 - Correlation matrix
